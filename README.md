@@ -42,7 +42,7 @@ The data of multi-round dialogues and knowledge graphs will be provided for you 
 see [result.json](https://github.com/NLP-Guild/Knowledge-driven-spoken-dialogue/blob/main/result/result.json)
 
 ## 5 Usage
-see [result_generation.ipynb](https://github.com/NLP-Guild/Knowledge-driven-spoken-dialogue/blob/main/result_generation.ipynb)
+see [result_generation.ipynb](https://github.com/NLP-Guild/Knowledge-driven-spoken-dialogue/blob/main/methods/result_generation.ipynb)
 
 ## 6 Roadmap
 - [x] annotate the domains of entities [link](https://huggingface.co/datasets/Adapting/2022-GLOBAL-AI-CHALLENGE/blob/main/knowledge_data.csv)
